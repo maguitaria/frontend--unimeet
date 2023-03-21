@@ -1,6 +1,6 @@
- Here is a sample link for developing an aka Tinder app: [https://www.cometchat.com/tutorials/tinder-clone-dating-website-node-js] (https://www.cometchat.com/tutorials/tinder-clone-dating-website-node-js)
- Here is a GitHub repo sample for aka Tinder app : [https://github.com/cometchat-pro-tutorials/tinder-clone]
- Here is an example of folder architecture which will be probably used [https://github.com/joeythelantern/MERN-Stack-Typescript-Blog]
+ Here is a sample link for developing an aka Tinder app: https://www.cometchat.com/tutorials/tinder-clone-dating-website-node-js
+ Here is a GitHub repo sample for aka Tinder app : https://github.com/cometchat-pro-tutorials/tinder-clone
+ Here is an example of folder architecture which will be probably used https://github.com/joeythelantern/MERN-Stack-Typescript-Blog
     Note that the folders 'server' and client' are implemented as separate repositories in our project
 
 ### `npm start`
