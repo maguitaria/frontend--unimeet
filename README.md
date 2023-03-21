@@ -1,10 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+ Here is a sample link for developing an aka Tinder app: [https://www.cometchat.com/tutorials/tinder-clone-dating-website-node-js]
+ Here is a GitHub repo sample for aka Tinder app : [https://github.com/cometchat-pro-tutorials/tinder-clone]
+ Here is an example of folder architecture which will be probably used [https://github.com/joeythelantern/MERN-Stack-Typescript-Blog]
+    Note that the folders 'server' and client' are implemented as separate repositories in our project
 
 ### `npm start`
 
